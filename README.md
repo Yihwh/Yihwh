@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Yihwh
+- 👀 I’m interested in building a thing, a website or an App
+- 🌱 I’m currently learning coding on Udemy and Harvard CS50x
+- 💞️ I’m looking to collaborate on junior level project
